@@ -16,12 +16,20 @@ The Complete Software Developer's Career Guide: How to Learn Programming Languag
 
 ##Building Business
     1. Organization Skills for Leadership 
-       A. Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential 
-       B. Skip the Line: The 10,000 Experiments Rule and Other Surprising Advice for Reaching Your Goals 
+       A. Get Things Done, David Allen
+       B. The Power to Get Things Done: (Whether You Feel Like It or Not, Levinson
+       B. Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential 
+       C.Skip the Line: The 10,000 Experiments Rule and Other Surprising Advice for Reaching Your Goals 
     2. Clarity First, Martin
     3.Team Topologies: Organizing Business and Technology Teams for Fast Flow
     4. Accelerate: Building and Scaling High Performing Technology Organizations
     5. A Seat at the Table: IT Leadership in the Age of Agility
     6. The Goal: A Process of Ongoing Improvement, Goldratt
-     
+ 
+##Business Strategy##
+    1.Your Strategy Needs a Strategy: How to Choose and Execute the Right Approach
+    2.War and Peace and IT: Business Leadership, Technology, and Success in the Digital Age 
+    3.
 
+##Learn from Top Buisness Notables
+   1. Amazon Way on IoT: 10 Principles for Every Leader from the World

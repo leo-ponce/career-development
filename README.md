@@ -6,6 +6,8 @@ The Complete Software Developer's Career Guide: How to Learn Programming Languag
 <br/>Partake in Kaggle competition
 
 ##Product Managment
+  7 skills product managers
+  Measure What Matters: How Google, Bono, and the Gates Foundation Rock the   World with OKRs 
 
 ##Product Management Interviews
 
@@ -13,7 +15,9 @@ The Complete Software Developer's Career Guide: How to Learn Programming Languag
    1. Blindspot, Banaji
 
 ##Building Business
-    1. Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential 
+    1. Organization Skills for Leadership 
+       A. Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential 
+       B. Skip the Line: The 10,000 Experiments Rule and Other Surprising Advice for Reaching Your Goals 
     2. Clarity First, Martin
     3.Team Topologies: Organizing Business and Technology Teams for Fast Flow
     4. Accelerate: Building and Scaling High Performing Technology Organizations

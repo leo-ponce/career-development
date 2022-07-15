@@ -1,5 +1,17 @@
 # career-development
 
+##Expanding Brain
+  1. Perform
+     A. Get Things Done
+     B. Second Brain
+       1. Related Quotes
+  3. Focus
+      A. Your Brain at Work, Revised and Updated: Strategies for Overcoming Distraction, Regaining Focus, and Working Smarter All Day Long
+      B. Focus: The Hidden Driver of Excellence
+      C. Relentless Solution Focus: Train Your Mind to Conquer Stress, Pressure, and Underperformance
+      D. Master Your Focus & Destiny: 2 Books in 1: Mastery Bundle 
+   2. Second Brain Book
+   3.    
 The Complete Software Developer's Career Guide: How to Learn Programming Languages Quickly, Ace Your Programming Interview, and Land Your Software Developer Dream Job
 <br/>Competitive Machine Learning
 <br/>All kaggle Courses
@@ -13,6 +25,9 @@ The Complete Software Developer's Career Guide: How to Learn Programming Languag
 
 ##Social Mastery & Soft Skills
    1. Blindspot, Banaji
+
+##Cultivating Creativity
+   Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration
 
 ##Building Business
     1. Organization Skills for Leadership 

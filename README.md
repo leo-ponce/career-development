@@ -5,6 +5,19 @@ The Complete Software Developer's Career Guide: How to Learn Programming Languag
 <br/>All kaggle Courses
 <br/>Partake in Kaggle competition
 
+##Product Managment
+
+##Product Management Interviews
+
+##Social Mastery & Soft Skills
+   1. Blindspot, Banaji
+
 ##Building Business
-    1. Team Topologies: Organizing Business and Technology Teams for Fast Flow
-    2. Accelerate: Building and Scaling High Performing Technology Organizations
+    1. Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential 
+    2. Clarity First, Martin
+    3.Team Topologies: Organizing Business and Technology Teams for Fast Flow
+    4. Accelerate: Building and Scaling High Performing Technology Organizations
+    5. A Seat at the Table: IT Leadership in the Age of Agility
+    6. The Goal: A Process of Ongoing Improvement, Goldratt
+     
+

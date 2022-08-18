@@ -18,6 +18,7 @@ The Complete Software Developer's Career Guide: How to Learn Programming Languag
 <br/>Partake in Kaggle competition
 
 ##Product Managment
+  LinkedIN Product Managment Track
   7 skills product managers
   Measure What Matters: How Google, Bono, and the Gates Foundation Rock the   World with OKRs 
 
